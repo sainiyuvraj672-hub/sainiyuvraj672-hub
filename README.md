@@ -18,11 +18,13 @@ Learning by doing, breaking things safely, and automating wherever possible.
 
 ---
 
-## 🛠️ Skills & Tools
-- **OS:** Linux (Debian & Red Hat based)  
-- **DevOps & Cloud:** AWS EC2, Docker, Ansible  
-- **Version Control:** Git, GitHub  
-- **Programming & Web:** Python, HTML, CSS  
+## 🛠️ Skills Snapshot
+- Linux (Debian & Red Hat)
+- Git & GitHub
+- Docker
+- AWS EC2
+- Ansible
+- Python, HTML, CSS
 
 ---
 
@@ -36,11 +38,11 @@ Learning by doing, breaking things safely, and automating wherever possible.
 
 ---
 
-## 🎯 Goals
-- Build real-world DevOps projects  
+## 🎯 Current Goals
+- Build real-world DevOps automation projects  
 - Gain internship experience in DevOps  
-- Learn Kubernetes and container orchestration next  
-- Grow consistently and learn in public  
+- Learn Kubernetes and container orchestration  
+- Stay consistent and learn in public  
 
 ---
 
@@ -49,4 +51,4 @@ Learning by doing, breaking things safely, and automating wherever possible.
 
 ---
 
-🟢 *Still learning. Still experimenting. Still committing.*
+🟢 Open to learning opportunities and internships.
