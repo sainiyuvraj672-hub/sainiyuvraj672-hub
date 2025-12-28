@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hey, I'm Yuvraj Saini
 
-<!--
-**sainiyuvraj672-hub/sainiyuvraj672-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BCA Student** @ Manipal University Jaipur (2023–2026)  
+💻 **Aspiring DevOps Engineer** | Linux | AWS | Docker | Ansible  
+📍 Jaipur, Rajasthan, India  
 
-Here are some ideas to get you started:
+I’m building a strong foundation in DevOps through hands-on labs, mini projects, and real-world simulations.  
+Learning by doing, breaking things safely, and automating wherever possible.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I’m currently working on
+- Linux system administration & command-line operations  
+- Git & GitHub for version control and collaboration  
+- Docker for containerizing web applications  
+- AWS EC2 for cloud-based deployments  
+- Ansible for configuration management & automated deployments  
+
+---
+
+## 🛠️ Skills & Tools
+- **OS:** Linux (Debian & Red Hat based)  
+- **DevOps & Cloud:** AWS EC2, Docker, Ansible  
+- **Version Control:** Git, GitHub  
+- **Programming & Web:** Python, HTML, CSS  
+
+---
+
+## 🧪 Hands-on Experience
+**DevOps Learner – Personal Learning (March 2025 – Present)**  
+- Practicing Linux administration: users, permissions, services  
+- Containerizing basic web apps and Python scripts using Docker  
+- Deploying applications on AWS EC2 instances  
+- Automating deployments using Ansible playbooks & roles  
+- Writing custom inventory files with OS-aware tasks  
+
+---
+
+## 🎯 Goals
+- Build real-world DevOps projects  
+- Gain internship experience in DevOps  
+- Learn Kubernetes and container orchestration next  
+- Grow consistently and learn in public  
+
+---
+
+## 🔗 Connect with me
+- LinkedIn: https://www.linkedin.com/in/yuvraj-saini67  
+
+---
+
+🟢 *Still learning. Still experimenting. Still committing.*
