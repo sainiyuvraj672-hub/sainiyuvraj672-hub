@@ -1,54 +1,68 @@
-# 👋 Hey, I'm Yuvraj Saini
+# Hi, I'm Yuvraj Saini 👋
 
-🎓 **BCA Student** @ Manipal University Jaipur (2023–2026)  
-💻 **Aspiring DevOps Engineer** | Linux | AWS | Docker | Ansible  
-📍 Jaipur, Rajasthan, India  
+### DevOps & Cloud Engineer
 
-I’m building a strong foundation in DevOps through hands-on labs, mini projects, and real-world simulations.  
-Learning by doing, breaking things safely, and automating wherever possible.
+I build and automate cloud infrastructure using AWS, Terraform, Docker, Kubernetes, Ansible, Linux, and Bash.
 
----
-
-## 🚀 What I’m currently working on
-- Linux system administration & command-line operations  
-- Git & GitHub for version control and collaboration  
-- Docker for containerizing web applications  
-- AWS EC2 for cloud-based deployments  
-- Ansible for configuration management & automated deployments  
+I'm passionate about Infrastructure as Code (IaC), cloud-native technologies, container orchestration, and automation. My focus is on building scalable, reliable, and production-inspired DevOps projects while continuously improving my engineering skills.
 
 ---
 
-## 🛠️ Skills Snapshot
-- Linux (Debian & Red Hat)
-- Git & GitHub
-- Docker
-- AWS EC2
-- Ansible
-- Python, HTML, CSS
+## 🚀 Tech Stack
+
+### Cloud
+AWS (EC2, IAM, VPC, S3, Route 53, RDS)
+
+### DevOps
+Terraform • Docker • Kubernetes • Ansible
+
+### Operating System
+Linux (RHEL, Ubuntu)
+
+### Languages
+Bash • Python • JavaScript
+
+### Version Control
+Git • GitHub
+
+### Networking
+TCP/IP • DNS • HTTP • SSH
 
 ---
 
-## 🧪 Hands-on Experience
-**DevOps Learner – Personal Learning (March 2025 – Present)**  
-- Practicing Linux administration: users, permissions, services  
-- Containerizing basic web apps and Python scripts using Docker  
-- Deploying applications on AWS EC2 instances  
-- Automating deployments using Ansible playbooks & roles  
-- Writing custom inventory files with OS-aware tasks  
+## 🔥 Featured Projects
+
+### ☁️ AWS Highly Available Todo Application
+Provisioned a highly available AWS infrastructure using Terraform with VPC, Auto Scaling, Application Load Balancer, RDS, and EC2.
+
+### 🐳 Dockerized Todo Application
+Containerized a Node.js application using Docker and deployed it on AWS EC2.
+
+### ☸️ Kubernetes Cluster Automation
+Automated Kubernetes cluster setup using Bash scripts on Linux.
+
+### ⚙️ AWS IAM Automation
+Provisioned IAM users, groups, and policies automatically using Terraform and CSV files.
+
+### 🗳️ FairVote
+A secure multi-tenant digital election system built using Node.js, Express.js, MySQL, HTML, CSS, and JavaScript.
 
 ---
 
-## 🎯 Current Goals
-- Build real-world DevOps automation projects  
-- Gain internship experience in DevOps  
-- Learn Kubernetes and container orchestration  
-- Stay consistent and learn in public  
+## 📈 Currently Learning
+
+- CI/CD (Jenkins & GitHub Actions)
+- Kubernetes Administration
+- AWS Architecture
+- Monitoring & Logging
 
 ---
 
-## 🔗 Connect with me
-- LinkedIn: https://www.linkedin.com/in/yuvraj-saini67  
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/yuvraj-saini67
+- GitHub: github.com/sainiyuvraj672-hub
 
 ---
 
-🟢 Open to learning opportunities and internships.
+⭐ I enjoy building practical DevOps projects that solve real infrastructure challenges.
